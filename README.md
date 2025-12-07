@@ -92,28 +92,6 @@ To predict whether a patient is likely to have diabetes (Outcome = 1) based on c
 
 ---
 
-## Repository Structure
-Healthcare-Diabetes-Risk-Prediction/
-│
-├─ notebooks/
-│ └─ Diabetes_Risk_Prediction_Complete.ipynb   # The main notebook with complete workflow
-│
-├─ data/
-│ └─ diabetes.csv                             # The Pima Indians Diabetes Dataset
-│
-├─ models/
-│ └─ xgb_diabetes_model.pkl                   # Saved XGBoost model using joblib
-│
-├─ plots/
-│ ├─ rf_feature_importance.png
-│ ├─ xgb_feature_importance.png
-│ └─ roc_curve.png
-│
-├─ README.md                                # This file
-└─ requirements.txt                         # Required libraries
-
----
-
 ## How to Run
 
 1.  **Clone the repository:**
