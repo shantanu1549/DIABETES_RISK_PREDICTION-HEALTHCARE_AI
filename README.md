@@ -105,7 +105,7 @@ To predict whether a patient is likely to have diabetes (Outcome = 1) based on c
     ```
 3.  **Open and run the notebook:**
     ```bash
-    jupyter notebook notebooks/Diabetes_Risk_Prediction_Complete.ipynb
+    notebooks/Diabetes_Risk_Prediction-HealthcareAI.ipynb
     ```
     *Run all cells* in the notebook to replicate the analysis, training, evaluation, and SHAP explanations.
 
