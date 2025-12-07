@@ -96,8 +96,8 @@ To predict whether a patient is likely to have diabetes (Outcome = 1) based on c
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YourUsername/Healthcare-Diabetes-Risk-Prediction.git](https://github.com/YourUsername/Healthcare-Diabetes-Risk-Prediction.git)
-    cd Healthcare-Diabetes-Risk-Prediction
+    git clone [https://github.com/shantanu1549/DIABETES_RISK_PREDICTION-HEALTHCARE_AI.git](https://github.com/shantanu1549/DIABETES_RISK_PREDICTION-HEALTHCARE_AI.git)
+    cd DIABETES_RISK_PREDICTION-HEALTHCARE_AI
     ```
 2.  **Install dependencies:**
     ```bash
