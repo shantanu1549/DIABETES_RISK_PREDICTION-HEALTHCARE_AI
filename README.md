@@ -81,9 +81,9 @@ To predict whether a patient is likely to have diabetes (Outcome = 1) based on c
 
 | Model | Accuracy | ROC-AUC |
 | :--- | :--- | :--- |
-| Logistic Regression | $\approx 70\%$ | $\approx 74\%$ |
-| Random Forest | $\approx 74\%$ | $\approx 78\%$ |
-| **XGBoost** | **$\approx 75\%$** | **$\approx 80\%$** |
+| Logistic Regression | $\approx 70\%$ | $\approx 81\%$ |
+| Random Forest | $\approx 74\%$ | $\approx 82\%$ |
+| **XGBoost** | **$\approx 75\%$** | **$\approx 81\%$** |
 
 ### Key Insights
 * **Glucose**, **BMI**, and **Age** are consistently the most influential features for diabetes prediction, as confirmed by both feature importance and SHAP analysis.
